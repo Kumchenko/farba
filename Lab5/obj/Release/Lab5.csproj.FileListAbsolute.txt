@@ -1,0 +1,10 @@
+C:\Users\Kumch\source\repos\Lab5\Lab5\bin\Release\Farba.pdb
+C:\Users\Kumch\source\repos\Lab5\Lab5\obj\Release\Lab5.csprojAssemblyReference.cache
+C:\Users\Kumch\source\repos\Lab5\Lab5\obj\Release\Farba.Properties.Resources.resources
+C:\Users\Kumch\source\repos\Lab5\Lab5\obj\Release\Lab5.csproj.GenerateResource.cache
+C:\Users\Kumch\source\repos\Lab5\Lab5\obj\Release\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Kumch\source\repos\Lab5\Lab5\obj\Release\Farba.pdb
+C:\Users\Kumch\source\repos\Lab5\Lab5\bin\Release\Farba.exe.config
+C:\Users\Kumch\source\repos\Lab5\Lab5\bin\Release\Farba.exe
+C:\Users\Kumch\source\repos\Lab5\Lab5\obj\Release\Farba.exe
+C:\Users\Kumch\source\repos\Lab5\Lab5\obj\Release\Lab5.MainForm.resources
